@@ -1,0 +1,301 @@
+Order ID,Order Date,Customer Name,Product,Category,Segment,City,Quantity,Sales,Profit
+ORD1002,2026-02-27,Divya Menon,Keyboard,Technology,Consumer,Kolkata,4,60520.52,13436.99
+ORD1003,2026-01-17,Divya Menon,Laptop,Technology,Consumer,Kolkata,4,62947.32,12113.84
+ORD1004,2026-04-23,Sneha Patel,Cabinet,Furniture,Home Office,Kolkata,5,101845.8,6256.36
+ORD1005,2026-06-24,Rahul Kumar,Desk,Furniture,Corporate,Bengaluru,4,95841.12,12847.58
+ORD1006,2026-07-03,Divya Menon,Cabinet,Furniture,Consumer,Kolkata,5,101566.1,22399.49
+ORD1007,2026-02-10,Priya Reddy,File Folder,Office Supplies,Home Office,Mumbai,6,8787.06,1889.27
+ORD1008,2026-05-29,Ishita Das,Monitor,Technology,Consumer,Pune,2,50408.2,8052.72
+ORD1009,2026-07-01,Kavya Nair,Keyboard,Technology,Consumer,Ahmedabad,2,79812.42,7793.72
+ORD1010,2026-07-14,Priya Reddy,Cabinet,Furniture,Consumer,Hyderabad,4,69344.52,17019.05
+ORD1011,2026-06-11,Aditya Verma,Bookshelf,Furniture,Consumer,Ahmedabad,2,11653.76,3116.68
+ORD1012,2026-07-22,Divya Menon,Stapler,Office Supplies,Home Office,Delhi,3,2096.88,239.59
+ORD1013,2026-08-08,Kiran Raju,Stapler,Office Supplies,Corporate,Bengaluru,6,3524.04,984.82
+ORD1014,2026-01-25,Rahul Kumar,Monitor,Technology,Corporate,Kolkata,3,154954.5,23688.7
+ORD1015,2026-08-28,Divya Menon,File Folder,Office Supplies,Corporate,Pune,1,1716.69,146.26
+ORD1016,2026-02-27,Rohan Gupta,Table,Furniture,Home Office,Chennai,3,35176.47,9492.0
+ORD1017,2026-09-17,Divya Menon,Keyboard,Technology,Home Office,Hyderabad,4,42449.12,9667.89
+ORD1018,2026-06-15,Meera Joshi,Office Chair,Furniture,Consumer,Hyderabad,2,46554.2,11793.05
+ORD1019,2026-05-04,Divya Menon,Notebook,Office Supplies,Consumer,Chennai,2,3686.34,882.97
+ORD1020,2026-09-01,Arjun Mehta,Pen Set,Office Supplies,Home Office,Mumbai,5,6714.0,1298.83
+ORD1021,2026-06-09,Kavya Nair,Bookshelf,Furniture,Consumer,Bengaluru,8,180484.96,28756.12
+ORD1022,2026-06-23,Priya Reddy,Printer,Technology,Consumer,Bengaluru,4,154311.44,9502.8
+ORD1023,2026-01-17,Divya Menon,Office Chair,Furniture,Consumer,Ahmedabad,4,29868.0,4981.72
+ORD1024,2026-05-05,Ishita Das,Table,Furniture,Corporate,Kolkata,4,11968.48,2453.25
+ORD1025,2026-08-28,Ananya Singh,Notebook,Office Supplies,Consumer,Mumbai,2,397.0,87.42
+ORD1026,2026-04-08,Kavya Nair,Stapler,Office Supplies,Consumer,Ahmedabad,3,3250.83,394.26
+ORD1027,2026-02-20,Kavya Nair,Printer,Technology,Consumer,Kolkata,1,63009.56,16621.97
+ORD1028,2026-09-06,Aarav Sharma,Desk,Furniture,Corporate,Delhi,7,158405.52,15241.81
+ORD1029,2026-08-21,Priya Reddy,Table,Furniture,Home Office,Hyderabad,8,35692.48,4471.4
+ORD1030,2026-06-10,Sneha Patel,Laptop,Technology,Consumer,Bengaluru,8,264663.92,65530.36
+ORD1031,2026-04-06,Ananya Singh,Printer,Technology,Home Office,Mumbai,2,88297.3,9866.77
+ORD1032,2026-01-21,Aditya Verma,Notebook,Office Supplies,Corporate,Mumbai,7,11623.92,2142.87
+ORD1033,2026-06-10,Sanjay Iyer,Keyboard,Technology,Corporate,Bengaluru,7,64416.73,13012.83
+ORD1034,2026-01-05,Rohan Gupta,Cabinet,Furniture,Consumer,Pune,2,4960.48,530.25
+ORD1035,2026-02-05,Meera Joshi,Keyboard,Technology,Home Office,Hyderabad,5,54636.75,13299.89
+ORD1036,2026-06-03,Divya Menon,Notebook,Office Supplies,Consumer,Delhi,3,2093.82,535.47
+ORD1037,2026-05-25,Rohan Gupta,Pen Set,Office Supplies,Home Office,Ahmedabad,6,3292.86,657.03
+ORD1038,2026-05-09,Aditya Verma,Laptop,Technology,Consumer,Delhi,7,378309.05,26367.8
+ORD1039,2026-03-24,Vikram Rao,Stapler,Office Supplies,Home Office,Hyderabad,7,9969.54,843.55
+ORD1040,2026-07-09,Ishita Das,Calculator,Office Supplies,Consumer,Pune,3,3308.94,228.99
+ORD1041,2026-04-18,Pooja Shah,Pen Set,Office Supplies,Home Office,Chennai,2,1833.02,335.76
+ORD1042,2026-05-02,Aditya Verma,Monitor,Technology,Corporate,Mumbai,7,16738.96,3716.79
+ORD1043,2026-05-17,Kavya Nair,Laptop,Technology,Consumer,Ahmedabad,7,397551.77,98946.86
+ORD1044,2026-06-29,Aditya Verma,Desk,Furniture,Corporate,Bengaluru,4,5100.2,522.71
+ORD1045,2026-05-23,Aditya Verma,Cabinet,Furniture,Consumer,Bengaluru,7,120486.03,29592.03
+ORD1046,2026-05-14,Ishita Das,Printer,Technology,Home Office,Pune,5,16280.55,3113.58
+ORD1047,2026-08-12,Rohan Gupta,Calculator,Office Supplies,Consumer,Kolkata,2,1987.46,371.36
+ORD1048,2026-01-01,Aditya Verma,Calculator,Office Supplies,Home Office,Pune,4,3769.36,284.19
+ORD1049,2026-03-05,Meera Joshi,File Folder,Office Supplies,Home Office,Chennai,5,8419.45,1109.35
+ORD1050,2026-04-09,Divya Menon,Table,Furniture,Consumer,Delhi,3,46971.03,5928.17
+ORD1051,2026-05-27,Arjun Mehta,Mouse,Technology,Home Office,Ahmedabad,6,183913.44,28925.01
+ORD1052,2026-03-28,Aditya Verma,Notebook,Office Supplies,Consumer,Mumbai,5,6564.3,1307.92
+ORD1053,2026-06-08,Neha Kapoor,Monitor,Technology,Home Office,Bengaluru,3,7104.33,808.94
+ORD1054,2026-08-22,Manish Yadav,Cabinet,Furniture,Consumer,Chennai,4,72623.24,10492.26
+ORD1055,2026-01-03,Kiran Raju,Mouse,Technology,Corporate,Hyderabad,4,48367.68,13095.67
+ORD1056,2026-05-08,Divya Menon,Mouse,Technology,Home Office,Pune,3,156752.85,32427.01
+ORD1057,2026-08-15,Sneha Patel,Calculator,Office Supplies,Home Office,Ahmedabad,7,14594.23,2634.72
+ORD1058,2026-08-19,Kavya Nair,Desk,Furniture,Corporate,Ahmedabad,5,96546.35,16865.29
+ORD1059,2026-02-09,Divya Menon,File Folder,Office Supplies,Consumer,Chennai,4,2862.8,373.13
+ORD1060,2026-03-19,Pooja Shah,Mouse,Technology,Corporate,Ahmedabad,3,138456.33,10263.82
+ORD1061,2026-08-01,Aarav Sharma,Monitor,Technology,Home Office,Kolkata,7,180630.87,41428.61
+ORD1062,2026-09-02,Pooja Shah,Keyboard,Technology,Home Office,Mumbai,5,245865.5,60915.28
+ORD1063,2026-09-07,Manish Yadav,Keyboard,Technology,Home Office,Chennai,7,223847.54,32580.69
+ORD1064,2026-08-28,Aarav Sharma,Printer,Technology,Consumer,Kolkata,1,59024.83,11227.49
+ORD1065,2026-03-11,Sanjay Iyer,Desk,Furniture,Corporate,Pune,1,7021.8,927.0
+ORD1066,2026-07-14,Divya Menon,Table,Furniture,Consumer,Pune,5,104941.7,17154.56
+ORD1067,2026-04-25,Arjun Mehta,Notebook,Office Supplies,Consumer,Chennai,1,1897.87,510.36
+ORD1068,2026-05-03,Rohan Gupta,Mouse,Technology,Corporate,Chennai,2,74013.7,7989.94
+ORD1069,2026-02-28,Varun Malhotra,Keyboard,Technology,Home Office,Kolkata,2,75903.12,20065.38
+ORD1070,2026-07-23,Kavya Nair,Pen Set,Office Supplies,Consumer,Delhi,2,3001.28,728.49
+ORD1071,2026-03-03,Rahul Kumar,Notebook,Office Supplies,Home Office,Pune,6,8131.38,1671.28
+ORD1072,2026-01-07,Sanjay Iyer,Table,Furniture,Home Office,Chennai,2,22469.24,3138.53
+ORD1073,2026-08-11,Neha Kapoor,Printer,Technology,Corporate,Kolkata,5,201707.85,52911.17
+ORD1074,2026-05-18,Sanjay Iyer,Desk,Furniture,Home Office,Kolkata,2,14955.92,2380.63
+ORD1075,2026-06-22,Rohan Gupta,Mouse,Technology,Corporate,Delhi,6,74844.72,7983.41
+ORD1076,2026-05-22,Neha Kapoor,Notebook,Office Supplies,Home Office,Mumbai,4,1039.0,226.93
+ORD1077,2026-09-01,Kavya Nair,Stapler,Office Supplies,Corporate,Mumbai,8,15941.52,1282.84
+ORD1078,2026-06-06,Pooja Shah,Calculator,Office Supplies,Home Office,Pune,6,7256.94,1283.05
+ORD1079,2026-06-30,Arjun Mehta,Stapler,Office Supplies,Corporate,Bengaluru,5,4006.15,443.55
+ORD1080,2026-04-05,Kiran Raju,Monitor,Technology,Home Office,Delhi,8,148410.24,28154.78
+ORD1081,2026-02-21,Divya Menon,Keyboard,Technology,Consumer,Delhi,4,95874.24,12127.98
+ORD1082,2026-01-24,Neha Kapoor,Printer,Technology,Consumer,Hyderabad,5,227871.0,20002.86
+ORD1083,2026-05-26,Rohan Gupta,Table,Furniture,Corporate,Bengaluru,8,71833.2,19568.04
+ORD1084,2026-02-03,Vikram Rao,Table,Furniture,Consumer,Delhi,2,29443.22,6213.09
+ORD1085,2026-02-13,Kavya Nair,Laptop,Technology,Home Office,Kolkata,7,278079.13,65060.22
+ORD1086,2026-08-19,Nisha Jain,Bookshelf,Furniture,Home Office,Bengaluru,7,56845.18,11177.24
+ORD1087,2026-04-17,Sneha Patel,Pen Set,Office Supplies,Home Office,Bengaluru,5,8340.25,788.59
+ORD1088,2026-03-22,Priya Reddy,Mouse,Technology,Consumer,Delhi,8,360461.04,58892.39
+ORD1089,2026-05-25,Varun Malhotra,Stapler,Office Supplies,Home Office,Mumbai,2,3468.18,913.03
+ORD1090,2026-08-06,Vikram Rao,Printer,Technology,Consumer,Hyderabad,4,169512.6,44047.94
+ORD1091,2026-03-26,Meera Joshi,Cabinet,Furniture,Home Office,Kolkata,5,56857.15,9274.17
+ORD1092,2026-05-20,Pooja Shah,Calculator,Office Supplies,Home Office,Pune,8,8980.08,1720.3
+ORD1093,2026-05-09,Varun Malhotra,Laptop,Technology,Home Office,Hyderabad,4,250218.76,61031.08
+ORD1094,2026-05-18,Rohan Gupta,Notebook,Office Supplies,Consumer,Kolkata,3,3608.19,733.66
+ORD1095,2026-09-09,Ananya Singh,Mouse,Technology,Consumer,Pune,6,162095.7,21175.02
+ORD1096,2026-07-30,Divya Menon,Stapler,Office Supplies,Consumer,Ahmedabad,5,8366.65,1239.1
+ORD1097,2026-02-15,Kiran Raju,Bookshelf,Furniture,Consumer,Ahmedabad,6,21101.34,4852.48
+ORD1098,2026-07-31,Sanjay Iyer,Monitor,Technology,Consumer,Mumbai,6,244638.54,41507.45
+ORD1099,2026-05-17,Ananya Singh,Pen Set,Office Supplies,Consumer,Mumbai,5,5616.9,1199.85
+ORD1100,2026-03-23,Ananya Singh,Cabinet,Furniture,Corporate,Bengaluru,1,14119.71,1136.72
+ORD1101,2026-03-20,Neha Kapoor,Bookshelf,Furniture,Consumer,Ahmedabad,5,53982.1,8969.12
+ORD1102,2026-03-16,Pooja Shah,Desk,Furniture,Corporate,Delhi,3,65087.55,7860.91
+ORD1103,2026-01-02,Neha Kapoor,Bookshelf,Furniture,Corporate,Pune,8,173806.64,27503.24
+ORD1104,2026-07-13,Manish Yadav,Bookshelf,Furniture,Consumer,Kolkata,4,98131.28,11043.42
+ORD1105,2026-01-23,Vikram Rao,Table,Furniture,Corporate,Hyderabad,7,70571.97,14538.64
+ORD1106,2026-03-06,Sanjay Iyer,Calculator,Office Supplies,Consumer,Ahmedabad,6,13084.62,3301.54
+ORD1107,2026-01-08,Rahul Kumar,Pen Set,Office Supplies,Corporate,Delhi,7,15286.53,4179.19
+ORD1108,2026-06-23,Divya Menon,Stapler,Office Supplies,Corporate,Pune,2,4273.64,1057.79
+ORD1109,2026-09-07,Meera Joshi,Notebook,Office Supplies,Consumer,Bengaluru,2,1250.38,263.29
+ORD1110,2026-08-11,Aarav Sharma,Laptop,Technology,Consumer,Pune,8,91844.96,11561.68
+ORD1111,2026-01-29,Pooja Shah,Bookshelf,Furniture,Home Office,Chennai,6,66994.14,7618.8
+ORD1112,2026-03-29,Varun Malhotra,Laptop,Technology,Consumer,Mumbai,7,284097.87,32098.1
+ORD1113,2026-08-25,Sanjay Iyer,File Folder,Office Supplies,Corporate,Chennai,8,5404.4,335.44
+ORD1114,2026-02-07,Rohan Gupta,Bookshelf,Furniture,Corporate,Delhi,5,81131.05,12441.28
+ORD1115,2026-04-12,Varun Malhotra,Table,Furniture,Corporate,Delhi,2,12928.2,2402.36
+ORD1116,2026-01-12,Priya Reddy,Stapler,Office Supplies,Home Office,Ahmedabad,5,349.2,87.41
+ORD1117,2026-05-27,Rohan Gupta,Printer,Technology,Home Office,Chennai,6,89160.54,9079.13
+ORD1118,2026-02-19,Ishita Das,Notebook,Office Supplies,Home Office,Chennai,5,9910.5,667.38
+ORD1119,2026-02-16,Divya Menon,Bookshelf,Furniture,Corporate,Delhi,7,34776.35,3097.71
+ORD1120,2026-03-26,Ananya Singh,Table,Furniture,Corporate,Bengaluru,5,94206.95,12672.47
+ORD1121,2026-03-14,Rohan Gupta,Mouse,Technology,Home Office,Bengaluru,6,39584.64,5811.28
+ORD1122,2026-08-21,Ananya Singh,Bookshelf,Furniture,Home Office,Mumbai,7,144793.18,38640.12
+ORD1123,2026-08-30,Rahul Kumar,Printer,Technology,Home Office,Ahmedabad,6,357356.58,38844.94
+ORD1124,2026-06-04,Meera Joshi,Stapler,Office Supplies,Corporate,Bengaluru,2,784.9,210.49
+ORD1125,2026-02-19,Divya Menon,Printer,Technology,Corporate,Chennai,3,77253.18,10940.79
+ORD1126,2026-08-01,Rohan Gupta,Notebook,Office Supplies,Consumer,Pune,8,12466.8,3323.55
+ORD1127,2026-04-22,Ishita Das,Table,Furniture,Home Office,Pune,4,85949.76,7035.68
+ORD1128,2026-02-01,Sanjay Iyer,Bookshelf,Furniture,Consumer,Mumbai,4,96909.72,26047.62
+ORD1129,2026-01-11,Arjun Mehta,Keyboard,Technology,Consumer,Mumbai,4,257129.2,59945.86
+ORD1130,2026-04-21,Rohan Gupta,Keyboard,Technology,Consumer,Chennai,3,154292.79,29487.81
+ORD1131,2026-05-09,Kavya Nair,Laptop,Technology,Home Office,Pune,1,9261.77,1285.66
+ORD1132,2026-01-09,Ananya Singh,Keyboard,Technology,Home Office,Bengaluru,1,8937.9,1364.02
+ORD1133,2026-09-01,Nisha Jain,Bookshelf,Furniture,Consumer,Delhi,2,23367.46,2541.0
+ORD1134,2026-08-23,Pooja Shah,Notebook,Office Supplies,Home Office,Bengaluru,1,2496.54,615.16
+ORD1135,2026-09-09,Vikram Rao,Stapler,Office Supplies,Consumer,Chennai,2,4506.4,589.73
+ORD1136,2026-05-21,Meera Joshi,Calculator,Office Supplies,Corporate,Kolkata,6,5899.32,1129.28
+ORD1137,2026-02-20,Pooja Shah,Notebook,Office Supplies,Corporate,Ahmedabad,4,4414.68,1127.42
+ORD1138,2026-07-24,Ishita Das,Office Chair,Furniture,Consumer,Ahmedabad,6,66422.22,13704.48
+ORD1139,2026-02-04,Ishita Das,Laptop,Technology,Consumer,Hyderabad,2,57052.94,12768.99
+ORD1140,2026-06-18,Pooja Shah,Notebook,Office Supplies,Home Office,Hyderabad,7,6414.24,1323.74
+ORD1141,2026-05-28,Vikram Rao,File Folder,Office Supplies,Home Office,Ahmedabad,6,1822.92,312.87
+ORD1142,2026-04-25,Kavya Nair,Keyboard,Technology,Corporate,Hyderabad,6,49053.84,5949.5
+ORD1143,2026-05-17,Aditya Verma,Monitor,Technology,Corporate,Hyderabad,5,229566.3,29379.12
+ORD1144,2026-04-03,Aarav Sharma,Printer,Technology,Consumer,Mumbai,7,36871.66,8222.87
+ORD1145,2026-07-12,Aditya Verma,Table,Furniture,Home Office,Bengaluru,6,27150.3,3490.45
+ORD1146,2026-01-27,Pooja Shah,Monitor,Technology,Corporate,Ahmedabad,1,44068.79,5282.2
+ORD1147,2026-08-01,Varun Malhotra,Desk,Furniture,Corporate,Delhi,2,18175.4,1533.93
+ORD1148,2026-01-24,Arjun Mehta,Mouse,Technology,Consumer,Delhi,1,1293.51,163.39
+ORD1149,2026-05-29,Vikram Rao,Office Chair,Furniture,Corporate,Mumbai,1,12786.46,1978.63
+ORD1150,2026-09-14,Pooja Shah,File Folder,Office Supplies,Consumer,Ahmedabad,2,2045.64,456.69
+ORD1151,2026-02-09,Pooja Shah,Cabinet,Furniture,Corporate,Bengaluru,7,102435.27,22135.21
+ORD1152,2026-07-27,Ishita Das,Keyboard,Technology,Consumer,Kolkata,3,156734.64,30718.04
+ORD1153,2026-02-24,Meera Joshi,Mouse,Technology,Home Office,Pune,7,241068.8,35453.67
+ORD1154,2026-04-24,Kiran Raju,Desk,Furniture,Consumer,Pune,2,26209.48,2230.06
+ORD1155,2026-06-29,Sneha Patel,Pen Set,Office Supplies,Home Office,Chennai,4,1207.48,140.45
+ORD1156,2026-02-08,Sanjay Iyer,Mouse,Technology,Home Office,Pune,8,393883.36,89479.65
+ORD1157,2026-06-11,Rohan Gupta,Mouse,Technology,Home Office,Hyderabad,2,61809.46,12294.19
+ORD1158,2026-06-30,Ishita Das,Notebook,Office Supplies,Corporate,Bengaluru,5,5906.35,403.25
+ORD1159,2026-02-16,Priya Reddy,Calculator,Office Supplies,Corporate,Mumbai,7,8285.48,1507.54
+ORD1160,2026-06-14,Aditya Verma,Stapler,Office Supplies,Home Office,Bengaluru,3,7189.26,1143.92
+ORD1161,2026-09-16,Sanjay Iyer,Pen Set,Office Supplies,Home Office,Chennai,1,656.97,102.69
+ORD1162,2026-07-06,Nisha Jain,Bookshelf,Furniture,Consumer,Pune,7,74431.7,10006.66
+ORD1163,2026-02-03,Nisha Jain,Office Chair,Furniture,Consumer,Pune,7,53233.39,11669.9
+ORD1164,2026-02-11,Manish Yadav,Pen Set,Office Supplies,Consumer,Bengaluru,6,4860.42,993.14
+ORD1165,2026-06-08,Kiran Raju,Stapler,Office Supplies,Consumer,Kolkata,6,12253.8,2541.75
+ORD1166,2026-09-18,Aditya Verma,Office Chair,Furniture,Corporate,Mumbai,6,49232.7,13256.26
+ORD1167,2026-04-26,Kiran Raju,Monitor,Technology,Home Office,Hyderabad,2,39579.7,9237.37
+ORD1168,2026-06-22,Nisha Jain,Pen Set,Office Supplies,Consumer,Ahmedabad,7,2995.44,298.9
+ORD1169,2026-01-23,Sanjay Iyer,Bookshelf,Furniture,Consumer,Mumbai,4,97044.0,18858.66
+ORD1170,2026-06-08,Sanjay Iyer,Desk,Furniture,Corporate,Delhi,6,103097.16,19123.73
+ORD1171,2026-07-15,Nisha Jain,Calculator,Office Supplies,Consumer,Delhi,7,16921.52,4056.36
+ORD1172,2026-01-27,Kiran Raju,Stapler,Office Supplies,Consumer,Delhi,6,8451.72,697.86
+ORD1173,2026-02-12,Pooja Shah,Keyboard,Technology,Consumer,Mumbai,8,471365.28,43562.03
+ORD1174,2026-08-19,Kavya Nair,Office Chair,Furniture,Corporate,Bengaluru,7,13958.98,2379.19
+ORD1175,2026-07-11,Aditya Verma,Laptop,Technology,Consumer,Chennai,6,363354.12,88883.24
+ORD1176,2026-01-20,Nisha Jain,Table,Furniture,Consumer,Bengaluru,3,57419.52,9371.11
+ORD1177,2026-01-10,Kiran Raju,Desk,Furniture,Corporate,Bengaluru,3,42107.82,9263.37
+ORD1178,2026-05-28,Nisha Jain,Keyboard,Technology,Corporate,Bengaluru,2,7731.02,1177.91
+ORD1179,2026-02-26,Vikram Rao,Cabinet,Furniture,Corporate,Kolkata,1,16056.51,2994.71
+ORD1180,2026-01-01,Rahul Kumar,File Folder,Office Supplies,Home Office,Pune,4,5792.52,586.26
+ORD1181,2026-02-04,Manish Yadav,Calculator,Office Supplies,Corporate,Delhi,1,1006.61,164.51
+ORD1182,2026-01-09,Ananya Singh,Office Chair,Furniture,Home Office,Pune,6,39356.16,8050.81
+ORD1183,2026-03-10,Sanjay Iyer,Keyboard,Technology,Home Office,Ahmedabad,6,318163.62,31345.36
+ORD1184,2026-04-04,Arjun Mehta,Laptop,Technology,Consumer,Pune,8,25394.88,2649.96
+ORD1185,2026-06-08,Arjun Mehta,Stapler,Office Supplies,Corporate,Pune,8,5364.96,1211.0
+ORD1186,2026-01-25,Manish Yadav,File Folder,Office Supplies,Home Office,Ahmedabad,5,1774.8,250.18
+ORD1187,2026-07-17,Kiran Raju,Desk,Furniture,Corporate,Bengaluru,8,140138.08,19733.73
+ORD1188,2026-08-06,Rahul Kumar,Mouse,Technology,Corporate,Delhi,3,107458.38,14041.21
+ORD1189,2026-06-06,Sanjay Iyer,Cabinet,Furniture,Consumer,Pune,7,33246.29,5241.6
+ORD1190,2026-08-11,Kiran Raju,Office Chair,Furniture,Home Office,Chennai,2,34019.54,5081.37
+ORD1191,2026-01-16,Ishita Das,Printer,Technology,Corporate,Kolkata,8,24272.72,1815.39
+ORD1192,2026-01-17,Rahul Kumar,Pen Set,Office Supplies,Home Office,Chennai,8,18996.96,2694.58
+ORD1193,2026-07-07,Sneha Patel,Bookshelf,Furniture,Corporate,Kolkata,5,33827.8,2873.97
+ORD1194,2026-03-02,Neha Kapoor,Bookshelf,Furniture,Consumer,Bengaluru,8,47312.48,9207.62
+ORD1195,2026-03-11,Rahul Kumar,Mouse,Technology,Home Office,Pune,3,175485.57,27713.46
+ORD1196,2026-06-27,Sneha Patel,Notebook,Office Supplies,Corporate,Mumbai,5,11168.8,2762.04
+ORD1197,2026-03-04,Divya Menon,Monitor,Technology,Home Office,Pune,4,206167.8,13562.23
+ORD1198,2026-08-28,Neha Kapoor,Pen Set,Office Supplies,Home Office,Kolkata,2,422.16,62.31
+ORD1199,2026-07-29,Sanjay Iyer,Notebook,Office Supplies,Corporate,Pune,3,7296.99,1468.99
+ORD1200,2026-03-07,Kiran Raju,Calculator,Office Supplies,Consumer,Bengaluru,3,5793.21,512.05
+ORD1201,2026-09-23,Kavya Nair,Keyboard,Technology,Corporate,Delhi,3,33594.84,8924.21
+ORD1202,2026-02-10,Divya Menon,Desk,Furniture,Consumer,Chennai,5,18708.2,2368.86
+ORD1203,2026-03-20,Aarav Sharma,Printer,Technology,Consumer,Hyderabad,6,329342.58,60597.71
+ORD1204,2026-05-16,Divya Menon,Pen Set,Office Supplies,Corporate,Delhi,7,10950.59,730.0
+ORD1205,2026-09-05,Sneha Patel,Mouse,Technology,Corporate,Kolkata,5,149587.65,31637.04
+ORD1206,2026-09-05,Aditya Verma,Desk,Furniture,Home Office,Pune,6,92651.04,11930.5
+ORD1207,2026-07-24,Rohan Gupta,Keyboard,Technology,Corporate,Mumbai,2,42574.48,6923.63
+ORD1208,2026-03-14,Pooja Shah,Laptop,Technology,Consumer,Chennai,5,307468.55,76902.82
+ORD1209,2026-06-17,Kiran Raju,File Folder,Office Supplies,Corporate,Ahmedabad,4,7678.6,1302.43
+ORD1210,2026-06-07,Kavya Nair,Office Chair,Furniture,Consumer,Pune,2,47338.32,8104.22
+ORD1211,2026-01-25,Neha Kapoor,Keyboard,Technology,Corporate,Hyderabad,8,313285.68,76888.74
+ORD1212,2026-02-25,Ishita Das,Desk,Furniture,Consumer,Kolkata,5,91892.25,20955.89
+ORD1213,2026-01-27,Manish Yadav,Calculator,Office Supplies,Home Office,Ahmedabad,4,3752.72,463.43
+ORD1214,2026-05-24,Ishita Das,Calculator,Office Supplies,Corporate,Pune,2,730.46,59.36
+ORD1215,2026-03-15,Vikram Rao,Printer,Technology,Home Office,Pune,7,230335.0,16115.79
+ORD1216,2026-08-31,Aditya Verma,Stapler,Office Supplies,Home Office,Pune,3,4606.02,798.74
+ORD1217,2026-03-25,Kiran Raju,Cabinet,Furniture,Home Office,Ahmedabad,5,75637.55,12980.11
+ORD1218,2026-06-03,Pooja Shah,Office Chair,Furniture,Home Office,Delhi,6,52494.72,4415.49
+ORD1219,2026-01-14,Varun Malhotra,Stapler,Office Supplies,Home Office,Mumbai,5,12096.6,2809.3
+ORD1220,2026-01-27,Manish Yadav,Stapler,Office Supplies,Consumer,Mumbai,3,4003.11,875.32
+ORD1221,2026-01-17,Vikram Rao,Notebook,Office Supplies,Corporate,Mumbai,4,385.6,49.75
+ORD1222,2026-07-30,Priya Reddy,Calculator,Office Supplies,Home Office,Chennai,8,17507.2,3884.57
+ORD1223,2026-09-23,Manish Yadav,Printer,Technology,Corporate,Chennai,6,389276.94,64324.75
+ORD1224,2026-08-24,Rohan Gupta,File Folder,Office Supplies,Home Office,Ahmedabad,6,10235.28,2567.87
+ORD1225,2026-04-09,Meera Joshi,Keyboard,Technology,Corporate,Mumbai,5,76182.3,20877.02
+ORD1226,2026-09-08,Rohan Gupta,Table,Furniture,Corporate,Bengaluru,6,85919.1,22818.98
+ORD1227,2026-07-14,Rahul Kumar,Bookshelf,Furniture,Corporate,Ahmedabad,3,23274.0,2869.19
+ORD1228,2026-05-12,Divya Menon,Stapler,Office Supplies,Home Office,Delhi,4,2180.28,389.15
+ORD1229,2026-03-12,Kiran Raju,Printer,Technology,Consumer,Mumbai,4,65463.24,13574.68
+ORD1230,2026-01-27,Vikram Rao,Mouse,Technology,Consumer,Chennai,6,281126.34,23086.06
+ORD1231,2026-07-28,Meera Joshi,Stapler,Office Supplies,Corporate,Delhi,8,13150.56,2975.98
+ORD1232,2026-01-31,Priya Reddy,Printer,Technology,Consumer,Kolkata,4,140627.12,30809.42
+ORD1233,2026-04-01,Meera Joshi,Mouse,Technology,Consumer,Hyderabad,8,102089.68,22947.79
+ORD1234,2026-06-02,Sanjay Iyer,Calculator,Office Supplies,Home Office,Ahmedabad,2,4649.42,621.67
+ORD1235,2026-03-10,Sneha Patel,Stapler,Office Supplies,Home Office,Ahmedabad,5,2611.95,221.45
+ORD1236,2026-05-12,Varun Malhotra,Pen Set,Office Supplies,Home Office,Mumbai,1,1854.71,433.94
+ORD1237,2026-03-31,Ananya Singh,Stapler,Office Supplies,Consumer,Chennai,7,9187.08,726.54
+ORD1238,2026-09-02,Rohan Gupta,Desk,Furniture,Corporate,Delhi,1,7037.08,786.85
+ORD1239,2026-01-06,Meera Joshi,Bookshelf,Furniture,Consumer,Kolkata,4,8838.48,760.19
+ORD1240,2026-09-15,Ishita Das,File Folder,Office Supplies,Home Office,Mumbai,2,3229.68,862.13
+ORD1241,2026-04-23,Ishita Das,Mouse,Technology,Corporate,Ahmedabad,3,90028.89,24987.01
+ORD1242,2026-04-22,Ishita Das,Printer,Technology,Consumer,Bengaluru,2,69075.06,12170.89
+ORD1243,2026-02-01,Aditya Verma,Calculator,Office Supplies,Home Office,Ahmedabad,4,5812.48,540.37
+ORD1244,2026-03-01,Priya Reddy,Pen Set,Office Supplies,Corporate,Chennai,8,2182.48,376.0
+ORD1245,2026-09-20,Meera Joshi,Table,Furniture,Home Office,Hyderabad,1,14278.77,2970.11
+ORD1246,2026-07-22,Ishita Das,Office Chair,Furniture,Home Office,Bengaluru,4,59011.84,4128.69
+ORD1247,2026-01-31,Vikram Rao,Mouse,Technology,Home Office,Kolkata,1,19231.22,1915.35
+ORD1248,2026-07-11,Divya Menon,Table,Furniture,Consumer,Pune,7,68797.33,14461.25
+ORD1249,2026-03-02,Kavya Nair,Printer,Technology,Consumer,Hyderabad,7,243261.83,53548.93
+ORD1250,2026-06-02,Kavya Nair,Cabinet,Furniture,Corporate,Pune,7,95381.93,23000.33
+ORD1251,2026-03-21,Nisha Jain,Desk,Furniture,Consumer,Mumbai,2,2965.76,608.7
+ORD1252,2026-04-16,Priya Reddy,Laptop,Technology,Consumer,Hyderabad,1,29461.52,6123.44
+ORD1253,2026-07-25,Vikram Rao,Desk,Furniture,Home Office,Delhi,4,76126.28,17564.92
+ORD1254,2026-04-30,Aditya Verma,Calculator,Office Supplies,Consumer,Delhi,6,8788.86,2021.07
+ORD1255,2026-03-15,Divya Menon,Calculator,Office Supplies,Home Office,Chennai,4,4252.88,512.62
+ORD1256,2026-08-07,Manish Yadav,Stapler,Office Supplies,Home Office,Pune,1,2432.11,649.74
+ORD1257,2026-08-02,Neha Kapoor,Desk,Furniture,Consumer,Mumbai,5,49239.9,11126.82
+ORD1258,2026-06-03,Pooja Shah,Pen Set,Office Supplies,Home Office,Chennai,8,18328.96,3367.49
+ORD1259,2026-07-18,Sanjay Iyer,Keyboard,Technology,Corporate,Bengaluru,4,88011.52,6811.7
+ORD1260,2026-04-08,Rahul Kumar,Keyboard,Technology,Consumer,Mumbai,7,308348.18,59401.07
+ORD1261,2026-09-03,Arjun Mehta,Keyboard,Technology,Home Office,Bengaluru,5,311203.35,19722.02
+ORD1262,2026-09-03,Aditya Verma,Printer,Technology,Corporate,Kolkata,4,105055.12,11834.75
+ORD1263,2026-08-27,Neha Kapoor,File Folder,Office Supplies,Corporate,Bengaluru,5,3454.15,596.94
+ORD1264,2026-08-29,Kavya Nair,Desk,Furniture,Home Office,Chennai,6,49824.06,3490.54
+ORD1265,2026-01-09,Kavya Nair,Cabinet,Furniture,Corporate,Mumbai,7,55112.19,5685.49
+ORD1266,2026-09-13,Neha Kapoor,File Folder,Office Supplies,Corporate,Chennai,5,9601.15,1608.16
+ORD1267,2026-06-30,Priya Reddy,Monitor,Technology,Home Office,Hyderabad,8,100926.96,25803.01
+ORD1268,2026-02-08,Kavya Nair,Notebook,Office Supplies,Consumer,Chennai,1,1060.36,260.17
+ORD1269,2026-01-05,Nisha Jain,Printer,Technology,Corporate,Ahmedabad,8,198075.84,38807.76
+ORD1270,2026-01-09,Rohan Gupta,Printer,Technology,Home Office,Delhi,7,10925.81,1928.1
+ORD1271,2026-01-09,Vikram Rao,Stapler,Office Supplies,Consumer,Mumbai,3,936.57,76.04
+ORD1272,2026-05-10,Sanjay Iyer,Bookshelf,Furniture,Home Office,Mumbai,7,18341.19,4971.3
+ORD1273,2026-04-26,Divya Menon,Office Chair,Furniture,Corporate,Hyderabad,1,2972.06,426.31
+ORD1274,2026-01-05,Aditya Verma,Pen Set,Office Supplies,Home Office,Bengaluru,2,2549.3,396.31
+ORD1275,2026-01-22,Rohan Gupta,Monitor,Technology,Home Office,Hyderabad,8,145634.4,38347.73
+ORD1276,2026-04-02,Manish Yadav,Office Chair,Furniture,Consumer,Delhi,4,59859.92,13498.17
+ORD1277,2026-03-25,Manish Yadav,Pen Set,Office Supplies,Home Office,Chennai,7,11961.18,2140.14
+ORD1278,2026-02-10,Rahul Kumar,File Folder,Office Supplies,Corporate,Kolkata,1,289.33,32.14
+ORD1279,2026-06-17,Manish Yadav,Keyboard,Technology,Corporate,Chennai,8,258373.92,35727.55
+ORD1280,2026-07-14,Rahul Kumar,Printer,Technology,Corporate,Chennai,5,260175.7,56427.91
+ORD1281,2026-07-14,Aarav Sharma,Pen Set,Office Supplies,Corporate,Ahmedabad,7,5781.02,482.38
+ORD1282,2026-07-04,Divya Menon,Office Chair,Furniture,Home Office,Kolkata,3,8463.96,1310.35
+ORD1283,2026-02-22,Aditya Verma,Laptop,Technology,Corporate,Hyderabad,6,218285.46,41763.12
+ORD1284,2026-05-30,Kavya Nair,Table,Furniture,Home Office,Chennai,2,36627.42,6706.41
+ORD1285,2026-07-14,Rahul Kumar,Monitor,Technology,Consumer,Kolkata,5,100663.15,16960.46
+ORD1286,2026-05-22,Kavya Nair,Bookshelf,Furniture,Home Office,Ahmedabad,8,157750.4,21997.9
+ORD1287,2026-04-11,Aditya Verma,Office Chair,Furniture,Home Office,Kolkata,3,24309.57,6532.98
+ORD1288,2026-06-18,Nisha Jain,Bookshelf,Furniture,Consumer,Delhi,7,143612.35,35772.67
+ORD1289,2026-06-14,Aditya Verma,Pen Set,Office Supplies,Corporate,Ahmedabad,8,6558.0,1785.13
+ORD1290,2026-05-05,Ananya Singh,Table,Furniture,Home Office,Mumbai,5,102704.1,15040.58
+ORD1291,2026-04-03,Arjun Mehta,Calculator,Office Supplies,Corporate,Delhi,1,2384.86,385.29
+ORD1292,2026-02-05,Vikram Rao,Table,Furniture,Home Office,Kolkata,3,48270.21,5466.34
+ORD1293,2026-07-13,Pooja Shah,Mouse,Technology,Home Office,Hyderabad,8,305440.56,54234.28
+ORD1294,2026-07-04,Ishita Das,Calculator,Office Supplies,Consumer,Hyderabad,2,635.92,72.88
+ORD1295,2026-07-24,Kiran Raju,Table,Furniture,Home Office,Mumbai,2,1912.62,223.63
+ORD1296,2026-08-17,Kiran Raju,Table,Furniture,Consumer,Pune,8,155743.36,29511.78
+ORD1297,2026-01-13,Ananya Singh,Office Chair,Furniture,Home Office,Chennai,5,54041.0,14676.46
+ORD1298,2026-06-28,Ishita Das,Bookshelf,Furniture,Corporate,Bengaluru,8,158062.08,27604.79
+ORD1299,2026-08-13,Ananya Singh,Stapler,Office Supplies,Consumer,Pune,6,1287.48,89.91
+ORD1300,2026-02-25,Aditya Verma,Pen Set,Office Supplies,Home Office,Kolkata,4,5256.76,953.68
+ORD1301,2026-08-25,Manish Yadav,Mouse,Technology,Consumer,Mumbai,3,38298.12,7836.09
