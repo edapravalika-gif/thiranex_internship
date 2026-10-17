@@ -1,0 +1,11 @@
+Customer_ID,Name,Age,City,Orders,Amount,Join_Date
+C001,Anu,24.0,Vijayawada,3.0,1200.5,2025-01-12
+C002,Ravi,31.0,Hyderabad,5.0,2450.0,2024-11-03
+C003,Meena,,Vijayawada,2.0,850.0,2025-03-18
+C004,Kiran,42.0,Guntur,,4300.0,2023-07-22
+C005,Sita,29.0, Hyderabad ,4.0,,2024-02-10
+C006,Arjun,35.0,Vizag,1.0,760.0,2025-05-01
+C006,Arjun,35.0,Vizag,1.0,760.0,2025-05-01
+C008,Divya,200.0,Guntur,7.0,5100.0,2024-09-14
+C009,Rahul,26.0,Hyderabad,2.0,1300.0,2025-02-02
+C010,Priya,33.0,,6.0,3200.0,invalid

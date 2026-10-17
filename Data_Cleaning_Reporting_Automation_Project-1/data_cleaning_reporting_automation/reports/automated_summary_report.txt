@@ -1,0 +1,31 @@
+DATA CLEANING & REPORTING AUTOMATION — SUMMARY
+
+Input file: data/customer_data_raw.csv
+Output file: outputs/customer_data_cleaned.csv
+
+DATASET OVERVIEW
+- Rows before cleaning: 10
+- Columns: 7
+- Rows after duplicate removal: 9
+- Duplicate rows removed: 1
+- Invalid ages corrected to missing before filling: 1
+- Missing cells before fill/standardization: 6
+
+AUTOMATED REPORT
+- Total customers after cleaning: 9
+- Total orders: 34
+- Total order amount: 21035.50
+- Average amount per customer: 2337.28
+- Customers by city: {'Hyderabad': 3, 'Vijayawada': 2, 'Guntur': 2, 'Vizag': 1, 'Unknown': 1}
+
+CLEANING RULES
+1. Trim spaces in text columns.
+2. Convert numeric fields and dates to appropriate types.
+3. Remove exact duplicate rows.
+4. Mark ages below 0 or above 100 as invalid, then fill missing ages with median.
+5. Fill missing numeric values with each column's median.
+6. Fill missing names/cities with 'Unknown'.
+7. Represent invalid/missing dates as 'Unknown'.
+
+VISUALIZATION
+See reports/customers_by_city.png.
